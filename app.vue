@@ -1,10 +1,9 @@
 <template>
   <div>
-    <Navbar />
-    <SideBar />
-
-    <!-- <NuxtWelcome /> -->
+    <Sidebar />
+    <Main />
   </div>
 </template>
+
 
 
