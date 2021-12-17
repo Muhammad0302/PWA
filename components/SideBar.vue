@@ -9,10 +9,9 @@
 
 <script>
 export default {
-  name : 'Sidebar',
   data(){
       return{
-                 isOpen: false,
+          isOpen: false,
           lsubItems : this.subItems
       }
   },

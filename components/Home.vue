@@ -60,7 +60,7 @@
 
 <script>
 
-import Sidebar from "./Sidebar.vue";
+// import Sidebar from './sidebar.vue';
 import Content from './content.vue'
 export default {
   data() {
@@ -135,7 +135,7 @@ export default {
   computed: {
   },
   components:{
-    Sidebar,
+    // Sidebar,
     Content
 }
 };
